@@ -78,4 +78,4 @@ For any queries or clarifications, please reach out via email or GitHub.
 
 - **Your Name** :Melek Müjdeci and Handenur Kesat 
 - **Email**: melek.mujdeci@amsterdamtech.com
-- **GitHub**: 
+- **GitHub**: https://github.com/mujdecimelek/M9_Project_NLP/blob/main/M9%20Project%20(Another%20one)%20Kaggle%20Competition.ipynb
